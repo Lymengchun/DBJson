@@ -1,16 +1,13 @@
 {
-  "posts":[
+  "Event": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "day": "1st",
+      "month": "January",
+      "year": "2021",
+      "hour": "12AM",
+      "minute": "0min",
+      "second": "0s",
+      "id": 1
     }
   ]
 }
